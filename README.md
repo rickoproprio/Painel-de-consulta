@@ -3,4 +3,4 @@ Olá bem vindo ao meu painel 100% gratuito com finalidade apenas de conhecimento
 Os requerimentos estão todos no projeto, basta abri a main :)
 
 Pretendo futuramente adicionar novos modulos de consulta assim mesmo quando eu conseguir as API eu adiciono.
-feito 100% em python estou aberto a seguestões.
+feito 100% em python estou aberto a segestões.
